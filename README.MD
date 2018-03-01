@@ -1,0 +1,40 @@
+# Reflection 4
+## 2/23/18 
+this week we learned how to copy documents into and out of putty.
+ i still find putty hard to use so im kind of worried on how ill work
+ with reviel.js. overall i think i need to memorize and commit to hearty
+ the commands for putty, it would be very helpful if you could post a list
+ of the commands so we could study them.
+
+---
+
+#Reflection 3
+##2/16/18
+this week i began my research into revieal.js to make the presentation
+ for my riot shield. I also looked up the necessary parts needed to make a
+ wood prototype. In this i also looked at some major flaws of modern riot
+ technology. I also found encrypted messages so ill be using that to
+ communicate from now on.
+
+---
+
+#Reflecrion 2
+##2/2/18
+Sir, this week I relearned algorithms and all the other things we did in
+ computer fundamentals 1. We relearned binary so i plan on reciting secret
+ small messages in binary to friends just to confuse them. I looked into
+ reveal.js and it does not look like fun but i will be using it for my google
+ Friday project. I was thinking my project would be on something
+ I'm passionate about so I will most likely be attempting to make a working
+ prototype. (A.K.A a riot shield or some sort of military item.)
+
+---
+
+#Reflection 1
+##1/29/18
+Sir, this week was just a review. I would dare say the most beneficial thing
+ we went over for me was the sorting algorithms. other than that I've been
+ thinking up a google Friday project. I am very nervous as its a big part of
+ our grade.
+
+---
