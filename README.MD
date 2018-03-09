@@ -1,3 +1,13 @@
+#reflection 5
+## 3/9/18
+this weeke we learned XML formating,it was fun yet strssfu;l to do a lot of
+ that  i also continued to look into the google friday project and found
+ lots of useful information.  however i am still nefvous about this 
+project.
+
+
+
+
 # Reflection 4
 ## 2/23/18 
 this week we learned how to copy documents into and out of putty.
