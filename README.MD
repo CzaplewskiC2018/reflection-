@@ -1,3 +1,11 @@
+#reflection 9 
+##4/13/18
+This week I unfortunetly struggeled with the pizza project. overall im not
+enjoying this class, i onlt tookit because I thought I had to. I was 
+in the box on thursday so I didnt learn to much about python.
+I talked to a close friend of mine who said codeing in python is hard.
+Progress on the google friday project is going well.  
+
 #reflection 6
 ##3/16/18
 this week i did some research on riot shields. i found that it cant be made
