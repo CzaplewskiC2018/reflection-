@@ -1,3 +1,9 @@
+#reflection 10
+##4/20/18
+This week i changed my project. im now doing a website for the riot shield.
+I will be using bootstrap to do so. research on cost effective meterials continuse. 
+Overall I did not enjoy this week. i find this class gets hardewr and harder and i dont like that.
+
 #reflection 9 
 ##4/13/18
 This week I unfortunetly struggeled with the pizza project. overall im not
