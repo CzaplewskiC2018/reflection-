@@ -1,3 +1,9 @@
+#reflection 11
+##4/26/18
+this week I learned not to get really angry about little things. for example
+getting mad at a project that we had 3 days to do. This week i think peoplke lost there minds a little to much.
+OVerall it think we should take it easy. we have a month left of school. 
+
 #reflection 10
 ##4/20/18
 This week i changed my project. im now doing a website for the riot shield.
