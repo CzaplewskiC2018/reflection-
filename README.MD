@@ -1,3 +1,7 @@
+#reflection 12
+##5/2/18
+Today research is ongoing. i begai  working out how a wood prototypewould be built.
+
 #reflection 11
 ##4/26/18
 this week I learned not to get really angry about little things. for example
