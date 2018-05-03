@@ -1,3 +1,7 @@
+#reflection 13
+##5/3/18
+same thing to report as 5/2/18.
+
 #reflection 12
 ##5/2/18
 Today research is ongoing. i begai  working out how a wood prototypewould be built.
