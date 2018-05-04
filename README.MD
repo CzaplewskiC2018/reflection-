@@ -1,3 +1,7 @@
+#reflection 14
+##5/4/18
+Today I got done the words i want to put inot the website. the only thing left to do now is make the website to my liking. 
+
 #reflection 13
 ##5/3/18
 same thing to report as 5/2/18.
