@@ -1,3 +1,8 @@
+#reflection 15
+##5/11/18
+today I begin work on the website. this will not take long.as it goes for the newest project I would like to to post a rubric to classroom. this would help me because I understand this meterial.
+javascript is easy for me, so i ask you to help me. I would like you to help me practice.
+
 #reflection 14
 ##5/4/18
 Today I got done the words i want to put inot the website. the only thing left to do now is make the website to my liking. 
