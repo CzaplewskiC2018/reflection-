@@ -1,3 +1,7 @@
+#reflection 16
+##5/18/18
+this year in computer fundimentals i learned a lot. you will be missed david. i digress, this year i learned about HTML and java script. we did a lot of projcets this year so i ask that you be kind and generous when grading my final and google friday project. 
+so we also did a bootstrap project which was fun. infact thats what im using for my final project. THIS CLASS HAS MADE ME A HACKER MAN. I WILL CAUSE A NEW GOVERMENT SHUTDOWN!!!!!!!! GOOD BYE MR.GOLD. 
 #reflection 15
 ##5/11/18
 today I begin work on the website. this will not take long.as it goes for the newest project I would like to to post a rubric to classroom. this would help me because I understand this meterial.
